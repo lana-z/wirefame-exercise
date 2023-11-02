@@ -12,8 +12,9 @@ This is the wireframe exercise lab using flexbox, class 08, November 1, 2023.
 
 ### Lighthouse Accessibility Report Score
 
-![Lighthouse score of 90](lighthouse-salmon.png)
+![Lighthouse score of --](lighthouse-.png)
 
 
 ### Reflections and Comments
-* 
+* Zooming out to see html layout helps for wireframe structure.
+* chatgpt help for 'gap' selector in css. Couldn't get align-content or align-items to work
