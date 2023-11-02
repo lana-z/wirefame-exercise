@@ -8,6 +8,7 @@
 section {
     margin-left: 60px;
     margin-right: 60px;
+    justify-content: center;
 }
 
 nav {
@@ -21,7 +22,7 @@ nav {
 nav img {
     border: 1px solid #111;
     height: 70px;
-    margin-left: 60px;
+    margin-left: 100px;
     width: 200px;
 }
 
@@ -72,11 +73,20 @@ nav ul li {
     flex-direction: column;
     margin-left: 30px
     height: 400px;
-    width: 480px;
+    width: 450px;
 }
 
 #feature-card header {
     font-size: 30px;
+}
+button {
+    background-color: #111;
+    color: white;
+    height: 40px;
+    margin-top: 10px;
+    width: 180px;
+
+
 }
 
 
